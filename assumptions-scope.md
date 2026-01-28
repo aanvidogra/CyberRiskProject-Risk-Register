@@ -1,3 +1,5 @@
+Assets
+
 - Member data in the CRM/scheduling app
 - Payment flow system with point of sale(POS) device
 - Staff devices such as laptops, tablets, and phones
@@ -6,3 +8,11 @@
 - Social Media accounts
 - Physical security cameras
 - IoT devices primarly: lights and vacuumn
+
+Data Handled
+
+- Member PII
+- Attendence History
+- Payment data (tokenized/processor-handled)
+- Staff payroll/admin info
+- 
